@@ -1,0 +1,5 @@
+{
+    "python.lintig.pylintEnabled": false,
+    "python.lintig.flake8Enabled": true,
+    "python.lintig.enabled": true,
+}
